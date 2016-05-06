@@ -13,7 +13,8 @@
 		"token": {
 			"host": "localhost",
 			"port": 6379,
-			"database": 1
+			"database": 1,
+			"auth": "redis!@#54V"
 		}
 	},
 	"token": {
